@@ -1,15 +1,9 @@
 /*
  * Name: Quang Nguyen
  * File: BaseballGame.java
- * Date: March 8, 2019
  * Desc: A baseball simulation program, which includes simulations of 
- * a full at-bat, a full game (including extra innings), and a best-of-7 series.
- * 			
- * I Received Help From: Math Workshop 
- * 
- * I affirm that my work upholds the highest standard of honesty and academic integrity 
- * at Wittenberg and that I have neither given nor received unauthorized assistance.
- * ____________________________________________________________________________________
+ * a full at-bat, a full game (including extra innings), and a best-of-7 series
+ * _____________________________________________________________________________
  */
 
 import java.util.ArrayList;
