@@ -26,7 +26,6 @@ public class Batter {
 		else {
 			return false;
 		}
-
 	}
 	
 	/**
