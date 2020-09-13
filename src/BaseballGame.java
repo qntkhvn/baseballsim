@@ -1,6 +1,6 @@
 /*
  * Name: Quang Nguyen
- * File: Baseball.java
+ * File: BaseballGame.java
  * Desc: A baseball simulation program, which includes simulations of 
  * a full at-bat, a full game (including extra innings), and a best-of-7 series
  * _____________________________________________________________________________
